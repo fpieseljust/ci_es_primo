@@ -26,4 +26,3 @@ def es_primo(numero):
 if __name__=='__main__':
     for i in range(2,100):
         print(f'{i} -> {es_primo(i)}')
-
