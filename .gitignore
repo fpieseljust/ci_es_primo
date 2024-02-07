@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# FERRAN
+.vscode/
+
 # C extensions
 *.so
 
